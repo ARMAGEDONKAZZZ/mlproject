@@ -1,0 +1,236 @@
+[
+    {
+        "id": 1,
+        "timestamp": "2025-07-31T11:47:32.955485",
+        "input": {
+            "Age": 25,
+            "AdSpend": 100.0,
+            "ClickThroughRate": 0.05,
+            "WebsiteVisits": 10,
+            "TimeOnSite": 30.0,
+            "Gender_Male": 1,
+            "CampaignChannel_PPC": 1,
+            "CampaignChannel_Referral": 0,
+            "CampaignChannel_SEO": 0,
+            "CampaignChannel_Social_Media": 0
+        },
+        "prediction": 1,
+        "probability": 0.8343
+    },
+    {
+        "id": 2,
+        "timestamp": "2025-07-31T11:51:08.707091",
+        "input": {
+            "Age": 96,
+            "AdSpend": 50.0,
+            "ClickThroughRate": 0.02,
+            "WebsiteVisits": 2,
+            "TimeOnSite": 4.0,
+            "Gender_Male": 1,
+            "CampaignChannel_PPC": 0,
+            "CampaignChannel_Referral": 0,
+            "CampaignChannel_SEO": 1,
+            "CampaignChannel_Social_Media": 0
+        },
+        "prediction": 1,
+        "probability": 0.6034
+    },
+    {
+        "id": 3,
+        "timestamp": "2025-07-31T11:51:21.368061",
+        "input": {
+            "Age": 96,
+            "AdSpend": 10.0,
+            "ClickThroughRate": 0.02,
+            "WebsiteVisits": 1,
+            "TimeOnSite": 4.0,
+            "Gender_Male": 1,
+            "CampaignChannel_PPC": 0,
+            "CampaignChannel_Referral": 0,
+            "CampaignChannel_SEO": 1,
+            "CampaignChannel_Social_Media": 0
+        },
+        "prediction": 1,
+        "probability": 0.6514
+    },
+    {
+        "id": 4,
+        "timestamp": "2025-07-31T11:51:55.730833",
+        "input": {
+            "Age": 28,
+            "AdSpend": 10.0,
+            "ClickThroughRate": 0.02,
+            "WebsiteVisits": 1,
+            "TimeOnSite": 4.0,
+            "Gender_Male": 1,
+            "CampaignChannel_PPC": 0,
+            "CampaignChannel_Referral": 0,
+            "CampaignChannel_SEO": 1,
+            "CampaignChannel_Social_Media": 0
+        },
+        "prediction": 1,
+        "probability": 0.6514
+    },
+    {
+        "id": 5,
+        "timestamp": "2025-07-31T11:52:00.683348",
+        "input": {
+            "Age": 28,
+            "AdSpend": 500.0,
+            "ClickThroughRate": 0.02,
+            "WebsiteVisits": 1,
+            "TimeOnSite": 4.0,
+            "Gender_Male": 1,
+            "CampaignChannel_PPC": 0,
+            "CampaignChannel_Referral": 0,
+            "CampaignChannel_SEO": 1,
+            "CampaignChannel_Social_Media": 0
+        },
+        "prediction": 1,
+        "probability": 0.6514
+    },
+    {
+        "id": 6,
+        "timestamp": "2025-07-31T11:52:05.793386",
+        "input": {
+            "Age": 28,
+            "AdSpend": 500.0,
+            "ClickThroughRate": 0.25,
+            "WebsiteVisits": 1,
+            "TimeOnSite": 4.0,
+            "Gender_Male": 1,
+            "CampaignChannel_PPC": 0,
+            "CampaignChannel_Referral": 0,
+            "CampaignChannel_SEO": 1,
+            "CampaignChannel_Social_Media": 0
+        },
+        "prediction": 1,
+        "probability": 0.9199
+    },
+    {
+        "id": 7,
+        "timestamp": "2025-07-31T11:52:12.110345",
+        "input": {
+            "Age": 28,
+            "AdSpend": 500.0,
+            "ClickThroughRate": 0.25,
+            "WebsiteVisits": 30,
+            "TimeOnSite": 4.0,
+            "Gender_Male": 1,
+            "CampaignChannel_PPC": 0,
+            "CampaignChannel_Referral": 0,
+            "CampaignChannel_SEO": 1,
+            "CampaignChannel_Social_Media": 0
+        },
+        "prediction": 1,
+        "probability": 0.9547
+    },
+    {
+        "id": 8,
+        "timestamp": "2025-07-31T11:52:19.714506",
+        "input": {
+            "Age": 28,
+            "AdSpend": 500.0,
+            "ClickThroughRate": 0.25,
+            "WebsiteVisits": 30,
+            "TimeOnSite": 120.0,
+            "Gender_Male": 1,
+            "CampaignChannel_PPC": 1,
+            "CampaignChannel_Referral": 0,
+            "CampaignChannel_SEO": 0,
+            "CampaignChannel_Social_Media": 0
+        },
+        "prediction": 1,
+        "probability": 0.9637
+    },
+    {
+        "id": 9,
+        "timestamp": "2025-07-31T11:53:15.695569",
+        "input": {
+            "Age": 35,
+            "AdSpend": 140.0,
+            "ClickThroughRate": 0.25,
+            "WebsiteVisits": 30,
+            "TimeOnSite": 120.0,
+            "Gender_Male": 1,
+            "CampaignChannel_PPC": 1,
+            "CampaignChannel_Referral": 0,
+            "CampaignChannel_SEO": 0,
+            "CampaignChannel_Social_Media": 0
+        },
+        "prediction": 1,
+        "probability": 0.9637
+    },
+    {
+        "id": 10,
+        "timestamp": "2025-07-31T11:53:20.038191",
+        "input": {
+            "Age": 35,
+            "AdSpend": 140.0,
+            "ClickThroughRate": 0.99,
+            "WebsiteVisits": 30,
+            "TimeOnSite": 120.0,
+            "Gender_Male": 1,
+            "CampaignChannel_PPC": 1,
+            "CampaignChannel_Referral": 0,
+            "CampaignChannel_SEO": 0,
+            "CampaignChannel_Social_Media": 0
+        },
+        "prediction": 1,
+        "probability": 0.9788
+    },
+    {
+        "id": 11,
+        "timestamp": "2025-07-31T11:53:22.726880",
+        "input": {
+            "Age": 35,
+            "AdSpend": 140.0,
+            "ClickThroughRate": 0.0,
+            "WebsiteVisits": 30,
+            "TimeOnSite": 120.0,
+            "Gender_Male": 1,
+            "CampaignChannel_PPC": 1,
+            "CampaignChannel_Referral": 0,
+            "CampaignChannel_SEO": 0,
+            "CampaignChannel_Social_Media": 0
+        },
+        "prediction": 1,
+        "probability": 0.9169
+    },
+    {
+        "id": 12,
+        "timestamp": "2025-07-31T11:53:38.984759",
+        "input": {
+            "Age": 35,
+            "AdSpend": 140.0,
+            "ClickThroughRate": 0.08,
+            "WebsiteVisits": 12,
+            "TimeOnSite": 40.0,
+            "Gender_Male": 1,
+            "CampaignChannel_PPC": 0,
+            "CampaignChannel_Referral": 0,
+            "CampaignChannel_SEO": 0,
+            "CampaignChannel_Social_Media": 1
+        },
+        "prediction": 1,
+        "probability": 0.871
+    },
+    {
+        "id": 13,
+        "timestamp": "2025-07-31T11:53:52.120700",
+        "input": {
+            "Age": 35,
+            "AdSpend": 140.0,
+            "ClickThroughRate": 0.04,
+            "WebsiteVisits": 2,
+            "TimeOnSite": 4.0,
+            "Gender_Male": 1,
+            "CampaignChannel_PPC": 0,
+            "CampaignChannel_Referral": 0,
+            "CampaignChannel_SEO": 0,
+            "CampaignChannel_Social_Media": 1
+        },
+        "prediction": 1,
+        "probability": 0.5486
+    }
+]
